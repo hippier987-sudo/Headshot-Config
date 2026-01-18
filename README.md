@@ -37,6 +37,6 @@ This tips help you to improve your headshot accuracy. These tips include:
 * Control the recoil. Recoil is the tendency of a gun to move upwards after you fire it. Controlling the recoil will help you to keep your aim on target.
 * Be patient. It takes time to improve your headshot accuracy. Just keep practicing and you will eventually see improvement.
 
-# Conclusion
+# Conclusion.
 
 Using a headshot config file can be a great way to improve your headshot accuracy in Free Fire. It is important to remember that practice is still the most important factor. 
